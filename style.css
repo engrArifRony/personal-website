@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+   
+}
+a{
+    text-decoration: none;
 }
 .topBanner{
     background-image: url(images/header-bg.png);
@@ -26,7 +30,10 @@ p{
 
 section{
     height: 500px;
-    margin-bottom: 150px;
+    margin: 150px 0;
+    
+
+
 }
 
 .link{
@@ -38,7 +45,7 @@ section{
     font-size: 19px;
 }
 .half img{
-    width: 100%;
+    width: 80%;
     height: 100%;
 }
 .biography{
@@ -59,12 +66,13 @@ section{
     margin-left: 4%;
 }
 .quarter img{
-    width: 100%;
+    width: 80%;
     height: 100%;
 }
 .LatestWorks{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .client{
     text-align: center;
@@ -99,4 +107,7 @@ section{
 footer p{
 text-align:center ;
 font-size: 20px;
+}
+footer{
+    margin-top: 250px;
 }
