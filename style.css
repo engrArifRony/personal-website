@@ -98,8 +98,10 @@ section{
     color: #fff;
 }
 .mail{
-    font-size: 40px;
-   
+    font-size: 40px;  
+}
+.mail a{
+    color: #fff;
 }
 .client h3{
     font-size: 30px;
