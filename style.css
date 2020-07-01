@@ -1,0 +1,101 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.topBanner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.half{
+    width:40%;
+    margin-left:5%;
+    padding-left: 2%;
+    float: left;
+    height: 500px;
+}
+h2{
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+    color: #fe2c54;
+}
+p{
+    color: #000;
+}
+
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+.link{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,#EC5197,#ED4B70);
+    color: #fff;
+    font-weight: bold;
+    font-size: 19px;
+}
+.half img{
+    width: 100%;
+    height: 100%;
+}
+.biography{
+    background-image:url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.redm{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.quarter{
+    width: 30%;
+    float: left;
+    margin-left: 2.2%;
+    padding-left: 3px;
+}
+.quarter1{
+    margin-left: 5%;
+}
+.quarter img{
+    width: 100%;
+    height: 100%;
+}
+.LatestWorks{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.client{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.client p{
+    color: #000;
+}
+.single {
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    background-color: #ED4B72;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 159px;
+}
+.single p{
+    font-size: 20px;
+    color: #fff;
+}
+.mail{
+    font-size: 40px;
+   
+}
+.client h3{
+    font-size: 30px;
+}
+footer p{
+text-align:center ;
+font-size: 20px;
+}
